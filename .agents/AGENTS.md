@@ -14,7 +14,7 @@ A project to interact with X using AI agents, the Model Context Protocol (MCP), 
 *   **App Status**: The project-level app **PostBot-Project-App** is created under the **PostBot** project in the X Developer Portal.
 *   **Tier**: Enrolled in the **Free** tier (up to 1,500 posts/month).
 *   **Credentials**: Stored locally in [.env](file:///Users/m5/Desktop/XPosts/.env) (which is ignored by Git in [.gitignore](file:///Users/m5/Desktop/XPosts/.gitignore)).
-    *   *Note: Do NOT commit any credentials to this repo. They are stored in `.env` under `CLIENT_ID` and `CLIENT_SECRET`.*
+    *   *Note: Do NOT commit any credentials to this repo. They are stored in `.env` under `CLIENT_ID`, `CLIENT_SECRET`, `CONSUMER_KEY`, `CONSUMER_SECRET`, `ACCESS_TOKEN`, and `ACCESS_TOKEN_SECRET`.*
 *   **Post History**:
     *   **First Post**: `2071781402782175652`
     *   **Second Post (Quote-Tweet)**: `2071781990961967213`
